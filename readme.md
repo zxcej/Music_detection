@@ -40,7 +40,7 @@ classifier(image)
 
 ```
 A sample output for an F-clef image:
-![](C:\Users\x_zhu202\PycharmProjects\Music_detection\Unseen_test\f_clef.png)
+![](https://github.com/zxcej/Music_detection/blob/main/Unseen_test/f_clef.png)
 
 
 ```json
